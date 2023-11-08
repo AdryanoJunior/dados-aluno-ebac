@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Adryano
+-Profissão: Social Media
+-Cidade: Praia Grande/SP
+-O que faz nas horas vaga: Sair com amigos pra diversos lugares
+-Feedback sobre o curso Qualidade de Software: Estou curtindo bastante o aprendizado que é bem didático
+-Feedback sobre a plataforma de estudo da EBAC: Interface bem intuitiva e de fácil entendimento
 
 Obrigado!!!
 
